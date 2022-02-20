@@ -206,6 +206,7 @@ footer {
 @media screen and (max-width:896px) {
     #magazine-box {
         flex-direction: column;
+        background-color: aqua;
     }
     .ma-content {
         width: 100%;
